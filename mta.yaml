@@ -105,7 +105,7 @@ modules:
             
   - name: exciseDuty-ui-conf-exciseduty
     type: html5
-    path: /ui/conf-exciseduty
+    path: ui/conf-exciseduty
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -120,7 +120,7 @@ modules:
 
   - name: exciseDuty-ui-conf-extensionfunction
     type: html5
-    path: /ui/conf-extensionfunction
+    path: ui/conf-extensionfunction
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -135,7 +135,7 @@ modules:
     
   - name: exciseDuty-ui-conf-movementcategory
     type: html5
-    path: /ui/conf-movementcategory
+    path: ui/conf-movementcategory
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -150,7 +150,7 @@ modules:
 
   - name: exciseDuty-ui-conf-stockledgercharacteristic
     type: html5
-    path: /ui/conf-stockledgercharacteristic
+    path: ui/conf-stockledgercharacteristic
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -165,7 +165,7 @@ modules:
 
   - name: exciseDuty-ui-conf-taxrate
     type: html5
-    path: /ui/conf-taxrate
+    path: ui/conf-taxrate
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -180,7 +180,7 @@ modules:
 
   - name: exciseDuty-ui-conf-taxwarehouse
     type: html5
-    path: /ui/conf-taxwarehouse
+    path: ui/conf-taxwarehouse
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -195,7 +195,7 @@ modules:
 
   - name: exciseDuty-ui-md-materialmaster
     type: html5
-    path: /ui/md-materialmaster
+    path: ui/md-materialmaster
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -210,7 +210,7 @@ modules:
 
   - name: exciseDuty-ui-md-shiptomaster
     type: html5
-    path: /ui/md-shiptomaster
+    path: ui/md-shiptomaster
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -225,7 +225,7 @@ modules:
 
   - name: exciseDuty-ui-stockledgerlineitem
     type: html5
-    path: /ui/stockledgerlineitem
+    path: ui/stockledgerlineitem
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -240,7 +240,7 @@ modules:
 
   - name: exciseDuty-ui-stockledgerlineitem-alp
     type: html5
-    path: /ui/stockledgerlineitem-alp
+    path: ui/stockledgerlineitem-alp
     parameters:
       disk-quota: 256M
       memory: 256M
@@ -255,7 +255,7 @@ modules:
 
   - name: exciseDuty-ui-stockledgerprocessingerror
     type: html5
-    path: /ui/stockledgerprocessingerror
+    path: ui/stockledgerprocessingerror
     parameters:
       disk-quota: 256M
       memory: 256M
