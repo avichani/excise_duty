@@ -104,8 +104,8 @@ modules:
           target-path: resources/ui-md-materialmaster
             
   - name: exciseDuty-ui-conf-exciseduty
-    type: html5_avi
-    path: ui/conf-exciseduty
+    type: html5
+    path: /ui/conf-exciseduty
     parameters:
       disk-quota: 256M
       memory: 256M
